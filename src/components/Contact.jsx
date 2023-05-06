@@ -18,7 +18,7 @@ function Contact() {
               </p>
               <p>info@arifkayacan.com</p>
             </div>
-            <div className="w3-third w3-teal">
+            <div className="w3-third w3-red">
               <p>
                 <i className="fa fa-map-marker w3-xxlarge w3-text-light-grey" />
               </p>

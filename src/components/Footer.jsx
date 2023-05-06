@@ -8,15 +8,13 @@ function Footer() {
         <div className="w3-row-padding">
           <div className="w3-half w3-center w3-padding-tb">
             <p>
-              Beni sosyal medyadan da takip edebilirsiniz.
-              <br /> Praesent tincidunt sed tellus ut rutrum. Sed vitae justo
-              condimentum, porta lectus vitae, ultricies congue gravida diam non
-              fringilla.
+              Bir çok platformda olduğu gibi beni sosyal medyadan da takip edebilirsiniz.
+              <br /> 
             </p>
-            <a href="*#" style={{ fontSize: "20px" }}>
+            <a href="https://www.facebook.com/arif.kayacan.967" target="_blank" rel="noreferrer" style={{ fontSize: "20px" }}>
               <i className="fa fa-facebook-official w3-hover-opacity" />
             </a>
-            <a href="*#" style={{ fontSize: "20px" }}>
+            <a href="https://www.instagram.com/arfkycn/" target="_blank" rel="noreferrer" style={{ fontSize: "20px" }}>
               <i
                 className="fa fa-instagram w3-hover-opacity"
                 style={{ width: "70px" }}

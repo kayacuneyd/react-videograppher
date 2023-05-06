@@ -10,7 +10,7 @@ function Works() {
     <>
       <div className="w3-padding-64 w3-content" id="photos">
         <div className="w3-row-padding" style={{ margin: "0 -16px" }}>
-          <h2 className="w3-text-light-grey w3-center">My Photos</h2>
+          <h2 className="w3-text-light-grey w3-center">Me at Work</h2>
           <div className="w3-half">
             <img
               src={arif1}

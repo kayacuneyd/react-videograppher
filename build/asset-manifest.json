@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e8ed632.css",
+    "main.js": "/static/js/main.6d344bdd.js",
+    "static/js/787.292ea359.chunk.js": "/static/js/787.292ea359.chunk.js",
+    "static/media/arifkycn.png": "/static/media/arifkycn.1e42e7ddee6d5428b8cd.png",
+    "static/media/arif-3.jpeg": "/static/media/arif-3.3c73cac7242ed799077a.jpeg",
+    "static/media/arif-2.jpeg": "/static/media/arif-2.8aa2bc265dd765133543.jpeg",
+    "static/media/arif-4.jpeg": "/static/media/arif-4.e97c25a825f4e58aa3a9.jpeg",
+    "static/media/arif-1.jpeg": "/static/media/arif-1.fa7e88fdcfc6f4c11139.jpeg",
+    "static/media/arif-5.jpeg": "/static/media/arif-5.ecfbc34742d0b3b1c937.jpeg",
+    "static/media/logo_kayacan.png": "/static/media/logo_kayacan.2ea25eb7de3e04ede18f.png",
+    "static/media/power-group.jpeg": "/static/media/power-group.354e4a9b6d75e6c858fa.jpeg",
+    "index.html": "/index.html",
+    "main.4e8ed632.css.map": "/static/css/main.4e8ed632.css.map",
+    "main.6d344bdd.js.map": "/static/js/main.6d344bdd.js.map",
+    "787.292ea359.chunk.js.map": "/static/js/787.292ea359.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e8ed632.css",
+    "static/js/main.6d344bdd.js"
+  ]
+}

@@ -11,31 +11,30 @@ function About() {
         <h2 className="w3-text-light-grey">A little about me</h2>
         <hr style={{ width: "200px" }} className="w3-opacity" />
         <p>
-          Some text about me. Some text about me. I am lorem ipsum consectetur
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-          magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-          ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-          irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-          fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-          sunt in culpa qui officia deserunt mollit anim id est laborum
-          consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        Hello! I am Arif and I have been working as a cameraman and technical director in the media industry for 12 years. Thanks to my experience, I have become an expert in live broadcast equipment, Uplink, direction, sound, and lighting.
+        </p>
+        <p>On my portfolio website, you can find a range of video examples that showcase my work on various projects. I always strive to deliver creative and high-quality video shoots that meet the needs of my clients. I have worked on various types of videos, including live broadcasts, commercials, short films, and documentaries.
+        </p>
+        <p>
+        
+        By browsing my portfolio website, you can get a better sense of my work and the high-quality standards that I uphold as a professional cameraman and technical director. If you want to avoid any technical difficulties and ensure the best results for your projects, I believe that working with me is the right choice.
+        </p>
+        <p>Thank you, and I look forward to welcoming you to my portfolio website.
         </p>
 
         <div className="w3-row w3-center w3-padding-16 w3-section w3-light-grey">
           <div className="w3-quarter w3-section">
-            <span className="w3-xlarge">11+</span>
+            <span className="w3-xlarge">12+</span>
             <br />
-            Partners
+            Years of Experiences
           </div>
           <div className="w3-quarter w3-section">
-            <span className="w3-xlarge">55+</span>
+            <span className="w3-xlarge">35+</span>
             <br />
             Projects Done
           </div>
           <div className="w3-quarter w3-section">
-            <span className="w3-xlarge">89+</span>
+            <span className="w3-xlarge">19+</span>
             <br />
             Happy Clients
           </div>
@@ -115,6 +114,8 @@ function About() {
             Cameraman
           </p>
           <p>Worked until 2020.</p>
+          <br/>
+          {/* <h3 className="w3-center">...</h3> */}
         </div>
       </div>
     </>
