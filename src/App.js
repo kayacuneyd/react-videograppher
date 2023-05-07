@@ -1,14 +1,21 @@
 import "./App.css";
-import About from "./components/About";
-import Contact from "./components/Contact";
-import Navbar from "./components/Navbar";
+import About from "./components/About.jsx";
+import Contact from "./components/Contact.jsx";
+import Header from "./components/Header.jsx";
+import Navbar from "./components/Navbar.jsx";
 import Navi from "./components/Navi.jsx";
-import Works from "./components/Works";
-import Header from "./components/Header";
+import Seo from "./components/Seo.jsx";
+import Works from "./components/Works.jsx";
 
 function App() {
   return (
     <>
+      <Seo
+        title="arifkayacan"
+        description="Arif M. Kayacan | The best videographer in your town"
+        type="webapp"
+        name="Arif M. Kayacan"
+      />
       <Navi />
 
       <Navbar />

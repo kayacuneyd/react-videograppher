@@ -19,8 +19,6 @@ function About() {
         
         By browsing my portfolio website, you can get a better sense of my work and the high-quality standards that I uphold as a professional cameraman and technical director. If you want to avoid any technical difficulties and ensure the best results for your projects, I believe that working with me is the right choice.
         </p>
-        <p>Thank you, and I look forward to welcoming you to my portfolio website.
-        </p>
 
         <div className="w3-row w3-center w3-padding-16 w3-section w3-light-grey">
           <div className="w3-quarter w3-section">
