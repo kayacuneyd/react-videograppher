@@ -28,7 +28,7 @@ function Contact() {
               <p>
                 <i className="fa fa-phone w3-xxlarge w3-text-light-grey" />
               </p>
-              <p>+90 535 576 0211</p>
+              <p>+905355760211</p>
             </div>
           </div>
         </div>
