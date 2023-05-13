@@ -35,14 +35,14 @@ function Contact() {
         <br />
         <div className="w3-center">
           <p>Let's get in touch. Send me a message:</p>
-          <form action="/action_page.php" target="_blank">
+          <form action="https://formsubmit.co/arfkycn@gmail.com" method="POST" target="_blank">
             <p>
               <input
                 className="w3-input w3-padding-16"
                 type="text"
                 placeholder="Name"
                 required
-                name="Name"
+                name="name"
               />
             </p>
             <p>
@@ -51,7 +51,7 @@ function Contact() {
                 type="text"
                 placeholder="Email"
                 required
-                name="Email"
+                name="email"
               />
             </p>
             <p>
@@ -60,7 +60,7 @@ function Contact() {
                 type="text"
                 placeholder="Subject"
                 required
-                name="Subject"
+                name="subject"
               />
             </p>
             <p>
@@ -69,7 +69,8 @@ function Contact() {
                 type="text"
                 placeholder="Message"
                 required
-                name="Message"
+                name="message"
+                
               />
             </p>
             <p>
